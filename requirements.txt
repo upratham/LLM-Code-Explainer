@@ -1,0 +1,5 @@
+dotenv 
+ipykernel
+openai 
+requests
+ipython

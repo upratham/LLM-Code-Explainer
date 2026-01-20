@@ -1,0 +1,18 @@
+[project]
+name = "Code-Explaine"
+version = "0.0.1"
+description = "AI capabale code explainer for students"
+authors = [{name = "Prathamesh Uravane", email = "upratham2002@gmail.com"}]
+requires-python = "==3.11.*"
+dependencies = [
+    "dotenv>=0.9.9",
+    "ipykernel>=7.1.0",
+    "ipython>=9.9.0",
+    "openai>=2.15.0",
+    "requests>=2.32.5",
+]
+[tool.setuptools]
+packages = {find = {}}
+
+[tool.setuptools.dynamic]
+dependencies = {file = "requirements.txt"}
