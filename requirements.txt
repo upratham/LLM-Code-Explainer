@@ -3,3 +3,4 @@ ipykernel
 openai 
 requests
 ipython
+gradio

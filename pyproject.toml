@@ -6,6 +6,7 @@ authors = [{name = "Prathamesh Uravane", email = "upratham2002@gmail.com"}]
 requires-python = "==3.11.*"
 dependencies = [
     "dotenv>=0.9.9",
+    "gradio>=6.4.0",
     "ipykernel>=7.1.0",
     "ipython>=9.9.0",
     "openai>=2.15.0",
