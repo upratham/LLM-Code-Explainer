@@ -1,6 +1,0 @@
-dotenv 
-ipykernel
-openai 
-requests
-ipython
-gradio
