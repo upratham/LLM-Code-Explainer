@@ -7,7 +7,7 @@ AI-powered **code explainer for students** that can run **locally** using **Olla
 
 ## Live Demo (Hugging Face Space)
 
-[![Open in Spaces](https://huggingface.co/datasets/huggingface/badges/resolve/main/open-in-hf-spaces-md-dark.svg)](https://huggingface.co/spaces/upratham/code_explainer)
+[Open in Spaces]👉[//huggingface.co/spaces/upratham/code_explainer](https://aistudio.google.com/)
 
 🔗 https://huggingface.co/spaces/upratham/code_explainer
 
