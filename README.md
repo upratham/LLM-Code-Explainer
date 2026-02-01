@@ -1,6 +1,4 @@
-Here’s a **shorter README.md** you can paste into GitHub that also **shows your deployed Hugging Face Space** via a badge (and a clear demo link).
 
-````md
 # Code Explainer (Local LLM + Ollama) 🚀
 
 AI-powered **code explainer for students** that can run **locally** using **Ollama** (OpenAI-compatible `/v1` endpoint) + the **OpenAI Python SDK**, with **streaming output** and a **Gradio chat UI**.
